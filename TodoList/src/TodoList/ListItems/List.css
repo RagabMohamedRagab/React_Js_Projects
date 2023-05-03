@@ -1,0 +1,26 @@
+*{
+    box-sizing: border-box;
+    font-size: 23px;
+}
+#list{
+    background-color: #fff;
+    margin-top: 2%;
+    color:#000000;
+   display: flex;
+   align-items: center;
+}
+#list span{
+ flex: 33.333%;
+ cursor: pointer;
+}
+#val{
+    text-align: center;
+    margin-top: 2%;
+    background-color: #fff;
+    color: #000;
+}
+@media (max-width: 766px){
+    #list span{
+        font-size: large;
+    }
+}
