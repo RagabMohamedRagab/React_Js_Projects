@@ -4,6 +4,6 @@
 npm start
 ```
 
-```
-TodoList : https://todolisttestapp.netlify.app/
-```
+<ul>
+ <li> TodoList : https://todolisttestapp.netlify.app/
+ </ul>
