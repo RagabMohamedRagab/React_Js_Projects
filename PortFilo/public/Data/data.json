@@ -1,0 +1,125 @@
+{
+  "works": [
+    {
+      "id": 1,
+      "icon_name": "icon fa fa-chain fa-2x",
+      "title": "Mobile Ux",
+      "body": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Doloribus quos omnis voluptas ea ipsam! Voluptas."
+    },
+    {
+      "id": 2,
+      "icon_name": "icon fa fa-bolt fa-2x",
+      "title": "Mobile Ux",
+      "body": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Doloribus quos omnis voluptas ea ipsam! Voluptas."
+    },
+    {
+      "id": 3,
+      "icon_name": "icon fa fa-tachometer fa-2x",
+      "title": "Mobile Ux",
+      "body": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Doloribus quos omnis voluptas ea ipsam! Voluptas."
+    }
+  ],
+
+  "portfolio": [
+    {
+      "id": 1,
+      "image": "images/Portfolio/portfolio-img1.jpg"
+    },
+    {
+      "id": 2,
+      "image": "/images/Portfolio/portfolio-img2.jpg"
+    },
+    {
+      "id": 3,
+      "image": "/images/Portfolio/portfolio-img3.jpg"
+    },
+    {
+      "id": 4,
+      "image": "/images/Portfolio/portfolio-img4.jpg"
+    },
+    {
+      "id": 5,
+      "image": "/images/Portfolio/portfolio-img5.jpg"
+    },
+    {
+      "id": 6,
+      "image": "/images/Portfolio/portfolio-img6.jpg"
+    },
+    {
+      "id": 7,
+      "image": "/images/Portfolio/portfolio-img4.jpg"
+    },
+    {
+      "id": 8,
+      "image": "/images/Portfolio/portfolio-img8.jpg"
+    }
+  ],
+  "social": [
+    {
+      "id": 1,
+      "icon": "icon fa fa-facebook fa-lg",
+      "title": "Follow Me on",
+      "body": "Social Facebook"
+    },
+    {
+      "id": 2,
+      "icon": "icon fa fa-twitter fa-lg",
+      "title": "Tweet Me on",
+      "body": "Social twitter"
+    },
+    {
+      "id": 3,
+      "icon": "icon fa fa-pinterest fa-lg",
+      "title": "Pin Me on",
+      "body": "Social Pinterest"
+    }
+  ],
+  "skills": [
+    {
+      "id": 1,
+      "name": "Bootstrap",
+      "precision": "100%"
+    },
+    {
+      "id": 2,
+      "name": "Css3",
+      "precision": "90%"
+    },
+    {
+      "id": 3,
+      "name": "JavaScript",
+      "precision": "80%"
+    }
+  ],
+  "Profile":[
+    {
+      "id":1,
+      "key":"Name",
+      "value":"Ragab Mohamed"
+  },
+   {
+    "id":2,
+     "key":"Birthday",
+     "value":"23/1/2000"
+  },
+  {
+    "id":3,
+    "key":"Address",
+    "value":"Cairo,Egypt"
+  },{
+    "id":4,
+    "key":"Phone",
+    "value":"+01121237611"
+  },
+  {
+    "id":5,
+    "key":"Email",
+    "value":"example123@gmail.com"
+  },
+  {
+    "id":6,
+    "key":"WebSite",
+    "value":"rago.com"
+  }
+  ]
+}
